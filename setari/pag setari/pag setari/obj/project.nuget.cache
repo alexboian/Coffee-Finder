@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0k9VfAWKnNA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\teobu\\OneDrive\\Desktop\\CafeRadar\\setari\\pag setari\\pag setari\\pag setari.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teobu\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\teobu\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
