@@ -1,0 +1,22 @@
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\bin\Debug\net10.0-windows\pag setari.exe
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\bin\Debug\net10.0-windows\pag setari.deps.json
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\bin\Debug\net10.0-windows\pag setari.runtimeconfig.json
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\bin\Debug\net10.0-windows\pag setari.dll
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\bin\Debug\net10.0-windows\pag setari.pdb
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\pag setari.csproj.AssemblyReference.cache
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\pag_setari.PROFIL.resources
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\pag_setari.Properties.Resources.resources
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\pag setari.csproj.GenerateResource.cache
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\pag setari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\pag setari.AssemblyInfoInputs.cache
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\pag setari.AssemblyInfo.cs
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\pag setari.csproj.CoreCompileInputs.cache
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\pag setari.csproj.Up2Date
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\pag setari.dll
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\refint\pag setari.dll
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\pag setari.pdb
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\pag setari.genruntimeconfig.cache
+C:\Users\teobu\OneDrive\Desktop\CafeRadar\setari\pag setari\pag setari\obj\Debug\net10.0-windows\ref\pag setari.dll
